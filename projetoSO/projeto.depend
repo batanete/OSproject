@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1418307748 source:/home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/projeto.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<ctype.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<pthread.h>
+	<sys/shm.h>
+	<sys/msg.h>
+	<sys/ipc.h>
+	<semaphore.h>
+	<fcntl.h>
+	<error.h>
+	<errno.h>
+	"defines.h"
+	"pool_threads.h"
+	"filas.h"
+	"reqsDinamicos.h"
+	"VerificadorConfs.h"
+	"VerificadorEstatisticas.h"
+
+1417797034 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/defines.h
+
+1417796840 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/filas.h
+
+1418211302 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/reqsDinamicos.h
+
+1417780644 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/VerificadorConfs.h
+
+1418236118 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/VerificadorEstatisticas.h
+	"defines.h"
+
+1418152888 /home/bata/Uni/2º ano/1º semestre/SO/codeblocks/projeto/pool_threads.h
+
